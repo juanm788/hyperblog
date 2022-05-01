@@ -1,0 +1,21 @@
+head{
+    text-align: center;
+    color: brown;
+    size: 45;
+}
+
+title{
+    color: bisque;
+    size: 466;
+}
+h3{
+    color: coral;
+    text-align: center;
+    size: 777;
+}
+
+p{
+    size: 44;
+    columns: 33;
+    color: yellowgreen;
+}
