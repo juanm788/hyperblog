@@ -1,5 +1,13 @@
 body
-
+{
+    background: #1e1f24;
+    color: #333;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
 
 #container
 {
@@ -24,4 +32,9 @@ body
     border: 1px solid #DDD;
     margin: 0 auto;
     color:  green;
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
 }
